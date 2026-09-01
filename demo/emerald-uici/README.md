@@ -1,0 +1,15 @@
+# School & Graduation - Emerald UICI
+> Scraped by Scraper Web Wedding v1.0.7
+> Source: https://satumomen.com/preview/emerald-uici
+
+## Struktur:
+- assets/music/ — Audio latar
+- assets/images/ — Gambar & ornamen tema
+- assets/fonts/ — Font custom (woff2, ttf)
+- assets/css/ — Stylesheet lengkap
+- assets/js/ — Script interaksi tema
+
+## Cara jalankan:
+```bash
+npx serve .
+```
